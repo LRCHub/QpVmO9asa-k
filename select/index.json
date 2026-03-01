@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Buzzstyle",
+  "base_artist": "Hitomi Yaida",
+  "createdAt": "2026-03-01T19:12:46.199088Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Buzzstyle",
+      "artist": "Hitomi Yaida",
+      "has_synced": true,
+      "path": "select/01_Buzzstyle_Hitomi_Yaida.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Buzzstyle",
+      "artist": "Yaida Hitomi",
+      "has_synced": true,
+      "path": "select/02_Buzzstyle_Yaida_Hitomi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Buzzstyle",
+      "artist": "矢井田 瞳",
+      "has_synced": false,
+      "path": "select/pl_01_Buzzstyle_矢井田_瞳.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Buzzstyle",
+      "artist": "矢井田 瞳",
+      "has_synced": false,
+      "path": "select/pl_02_Buzzstyle_矢井田_瞳.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Buzzstyle",
+      "artist": "矢井田 瞳",
+      "has_synced": false,
+      "path": "select/pl_03_Buzzstyle_矢井田_瞳.txt"
+    }
+  ]
+}
